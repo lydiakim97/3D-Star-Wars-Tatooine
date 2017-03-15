@@ -1,0 +1,19 @@
+#myCanvas{
+	border: 1px solid grey;
+	margin-left: 300px;
+    margin-top: 40px;
+}
+
+body{
+	 background-color: #211E1E;
+}
+h1{
+    text-align: center;
+	color: white;
+}
+section{
+    margin-left: 700px;
+	margin-top: -300px;
+	color: white;
+}
+
